@@ -1,1 +1,1 @@
-# bluetooth-library
+This library is a fork of https://github.com/paypal/gatt
